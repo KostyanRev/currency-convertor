@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# React Currency convertor 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Stack:**
+
+- ReactJS 18
+- Redux Toolkit
+- Axios
+- React Hooks
+- Material UI
+- Firebase
+- Used public API for currency: https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json
+
+### Link for live overview on hosting: https://currency-converter-test-ae99a.web.app/
+
 
 ## Available Scripts
 
